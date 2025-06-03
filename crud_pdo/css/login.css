@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(151, 36, 36);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.main{
+    border-radius: 20px;
+    border: white;
+    background-color: rgb(165, 60, 60);
+    padding: 10px;
+    text-align: center;
+    height: 300px;
+    width: 500px;
+}
+
+input{
+    margin: 7px;
+    padding: 7px;
+}
